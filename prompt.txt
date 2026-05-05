@@ -1,0 +1,13 @@
+Thse are cirrent sql tables for my backend so plase can you check and also make them better if you think improvement is required and aslo i iwlll explain wht each tabel will represent
+
+
+
+At first i will explain my app so :
+
+
+
+Building a card sytsem for kids with which a parent install our app then register him/her does kyc then  login , parent will create card for their kids each card will have a wallet storing the balances of the card and each card will have a qr also which scanned by a vendor and enters the money and asks for child his/ger card pin he will get the money from child card to his wallet.  The parent will recharge the card with payemnt gateway and we will store the money in the esscrow account. and the vedors can withdraw the amount once or twice in a day , we will do this by using payout services of payment gateways and also store all the transactions done by the both child and the vendors to show that is the vendor and the parents the trnsactions based on the card and also 
+
+
+
+also planning to do affliate program genrate a code for each user  whather the user or a vendor 
